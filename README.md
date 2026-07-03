@@ -186,8 +186,6 @@ Both tuned Logistic Regression and tuned SVC reached the same overall test accur
 ├── results/
 │   ├── dataset_summary.json
 │   └── model_comparison.csv
-├── data/
-│   └── README.md
 ├── requirements.txt
 ├── .gitignore
 └── README.md
