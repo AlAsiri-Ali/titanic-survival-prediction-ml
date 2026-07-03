@@ -1,0 +1,22 @@
+{
+  "dataset": "Titanic passenger survival dataset",
+  "rows": 891,
+  "feature_count_after_processing": 21,
+  "target": "Survived",
+  "survival_distribution": {
+    "did_not_survive": 549,
+    "survived": 342
+  },
+  "train_test_split": "80/20 stratified",
+  "train_rows": 712,
+  "test_rows": 179,
+  "test_distribution": {
+    "did_not_survive": 110,
+    "survived": 69
+  },
+  "best_models": [
+    "Tuned Logistic Regression",
+    "Tuned SVC"
+  ],
+  "best_test_accuracy": 0.8379888268
+}

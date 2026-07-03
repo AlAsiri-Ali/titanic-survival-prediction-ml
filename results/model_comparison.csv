@@ -1,0 +1,6 @@
+model,setup,accuracy,survivor_precision,survivor_recall,survivor_f1
+Logistic Regression,Baseline,0.83,0.77,0.78,0.78
+Support Vector Machine,Baseline,0.84,0.82,0.74,0.78
+Gaussian Naive Bayes,Baseline,0.74,0.61,0.86,0.72
+Logistic Regression,Tuned GridSearchCV,0.8379888268,0.79,0.78,0.79
+Support Vector Machine,Tuned GridSearchCV,0.8379888268,0.82,0.74,0.78
